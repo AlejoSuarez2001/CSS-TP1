@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,112,0.6418942577030813) 0%, rgba(0,212,255,1) 100%);
+}
+
+.title{
+    color: darkblue;
+}
+
+.foto{
+    width: 380px;
+    height: 500px;
+    border: 2px black solid;
+}
+
+.dato{
+    display: inline-block;
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+.subtitle{
+    color: #f06945;
+    font-size: 25px;
+    margin-left: 10px;
+}
